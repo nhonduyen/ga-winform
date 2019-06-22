@@ -1,0 +1,676 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PC
+</name>
+</assembly>
+<members>
+<member name="M:PC.CMgrUtility.NowTime">
+**********************************************************************************************************	
+
+ - FUNCTION : 
+   
+ - ARGUMENT : 
+   
+ - COMMENT  : 14-digit string of the system returns the current time
+   
+ - RETURN   : NULL
+
+*********************************************************************************************************
+
+</member><member name="M:PC.CMgrUtility.ToDBTime(System.DateTime)">
+**********************************************************************************************************	
+
+ - FUNCTION : 
+   
+ - ARGUMENT : 
+   
+ - COMMENT  : 14-digit string return DateTime type value		
+   
+ - RETURN   : NULL
+
+*********************************************************************************************************
+
+</member><member name="M:PC.CMgrUtility.CalTime(System.String,System.String,System.Int32)">
+**********************************************************************************************************	
+
+ - FUNCTION : 
+   
+ - ARGUMENT : 
+   
+ - COMMENT  : Enter the current time received from the separate units of a particular time depending on the result, ADD or SUBTRACTION a certain value returns the time
+   
+ - RETURN   : NULL
+
+*********************************************************************************************************
+
+</member><member name="M:PC.CMgrUtility.Change(System.String)">
+**********************************************************************************************************	
+
+ - FUNCTION : 
+
+ - ARGUMENT : 
+
+ - COMMENT  : 
+
+ - RETURN   : NULL
+
+*********************************************************************************************************
+
+</member><member name="M:PC.CMgrUtility.DiffTime(System.String)">
+**********************************************************************************************************	
+
+ - FUNCTION : 
+
+ - ARGUMENT : 
+
+ - COMMENT  : 
+
+ - RETURN   : NULL
+
+*********************************************************************************************************
+
+</member><member name="M:PC.CMgrUtility.msgboxcheck(System.String)">
+**********************************************************************************************************	
+
+ - FUNCTION : 
+
+ - ARGUMENT : 
+
+ - COMMENT  : 
+
+ - RETURN   : NULL
+
+*********************************************************************************************************
+
+</member><member name="M:PC.CMgrUtility.AlarmMsgLog(System.String,System.Char,System.String)">
+**********************************************************************************************************	
+
+ - FUNCTION : 
+
+ - ARGUMENT : 
+
+ - COMMENT  : MESSAGE LOG
+
+ - RETURN   : NULL
+
+*********************************************************************************************************
+
+</member><member name="M:PC.CMgrUtility.EventLog(System.Int32,System.String)">
+**********************************************************************************************************	
+
+ - FUNCTION : 
+
+ - ARGUMENT : 
+
+ - COMMENT  : EVENT LOG
+
+ - RETURN   : NULL
+
+*********************************************************************************************************
+
+</member><member name="M:PC.CMgrUtility.DisplayTime(System.String)">
+**********************************************************************************************************	
+
+ - FUNCTION : DisplayTime
+
+ - ARGUMENT : String time : DATE DATA OF Character STRING 
+
+ - COMMENT : Date of Character String(Include Time) return Display Format
+
+ - RETURN : String / time
+
+*********************************************************************************************************
+
+</member><member name="M:PC.CMgrUtility.NipTime(System.String)">
+**********************************************************************************************************	
+
+ - FUNCTION : 
+
+ - ARGUMENT : 
+
+ - COMMENT  : On the date shown on the screen to save data in DB by converting each in the form will return.
+
+ - RETURN   : time
+
+*********************************************************************************************************
+
+</member><member name="M:PC.CMgrUtility.NipPoint(System.String)">
+**********************************************************************************************************	
+
+ - FUNCTION : 
+
+ - ARGUMENT : 
+
+ - COMMENT  : On the date shown on the screen to save data in DB by converting each in the form will return.
+
+ - RETURN   : Point
+
+*********************************************************************************************************
+
+</member><member name="M:PC.CMgrUtility.Init(System.Int32,System.Int32,System.Int32,System.Boolean,SourceGrid2.Grid)">
+**********************************************************************************************************	
+
+ - FUNCTION : 
+
+ - ARGUMENT : 
+
+ - COMMENT  : A function to create a new blank (Create sell functions, decision height)
+
+ - RETURN   : NULL
+
+*********************************************************************************************************
+
+</member><member name="M:PC.CMgrUtility.Init4(System.Int32,System.Int32,System.Int32,System.Boolean,SourceGrid2.Grid)">
+**********************************************************************************************************	
+
+ - FUNCTION : 
+
+ - ARGUMENT : 
+
+ - COMMENT  : A function to create a new blank (Create sell functions, decision height)
+
+ - RETURN   : NULL
+
+*********************************************************************************************************
+
+</member><member name="M:PC.CMgrUtility.Init2(System.Int32,System.Int32,System.Int32,System.Boolean,SourceGrid2.Grid)">
+
+ - FUNCTION : 
+
+ - ARGUMENT : 
+
+ - COMMENT  : If the Value is Null then, Create Blank
+
+ - RETURN   : NULL
+
+*********************************************************************************************************
+
+</member><member name="M:PC.CMgrUtility.Init3(System.Int32,System.Int32,System.Int32,System.Int32,SourceGrid2.Grid)">
+
+ - FUNCTION : 
+
+ - ARGUMENT : 
+
+ - COMMENT  : wherever Create
+
+ - RETURN   : NULL
+
+*********************************************************************************************************
+
+</member><member name="M:PC.CMgrUtility.Replace(System.String,System.Int32)">
+**********************************************************************************************************	
+
+ - FUNCTION : 
+
+ - ARGUMENT : DATA Character String, Character String Length
+ 
+ - COMMENT  : SPACE FUNCTION
+
+ - RETURN   : NULL
+
+*********************************************************************************************************
+
+</member><member name="M:PC.CMgrUtility.STRINGNULL(System.String)">
+**********************************************************************************************************	
+
+ - FUNCTION : 
+
+ - ARGUMENT : DATA Character String
+ 
+ - COMMENT  : NULL -&gt; 0
+
+ - RETURN   : NULL
+
+*********************************************************************************************************
+
+</member><member name="M:PC.CMgrUtility.filelog(System.String)">
+**********************************************************************************************************	
+
+ - FUNCTION : 
+
+ - ARGUMENT : 
+
+ - COMMENT  : 
+
+ - RETURN   : NULL
+
+*********************************************************************************************************
+
+</member><member name="M:PC.CMgrUtility.GridHeader(System.Int32,System.Single)">
+**********************************************************************************************************	
+
+ - FUNCTION : GridHeader
+
+ - ARGUMENT : Integer style : 
+
+ - COMMENT  : Grid Header¿¡ style Apply
+
+ - RETURN   : SourceGrid2.VisualModels.Header / headerstyle
+
+*********************************************************************************************************
+
+</member><member name="M:PC.CMgrUtility.GridCommon(System.Int32,System.Single)">
+**********************************************************************************************************	
+
+ - FUNCTION : GridCommon
+
+ - ARGUMENT : Integer style : 
+
+ - COMMENT  : Grid Common style Apply
+
+ - RETURN   : SourceGrid2.VisualModels.Header / commonstyle
+
+*********************************************************************************************************
+
+</member><member name="M:PC.CMgrUtility.GridColorCommon(System.Int32,System.Single)">
+**********************************************************************************************************	
+
+ - FUNCTION : GridColorCommon
+
+ - ARGUMENT : Integer style : 
+
+ - COMMENT  : Grid Common style Apply
+
+ - RETURN   : SourceGrid2.VisualModels.Header / commonstyle
+
+*********************************************************************************************************
+
+</member><member name="M:PC.CMgrUtility.GridColorCommon1(System.Single,System.Single,System.Single)">
+**********************************************************************************************************	
+
+ - FUNCTION : GridColorCommon
+
+ - ARGUMENT : Integer style : 
+
+ - COMMENT  : Grid Common style Application
+
+ - RETURN   : SourceGrid2.VisualModels.Header / commonstyle
+
+*********************************************************************************************************
+
+</member><member name="M:PC.CMgrUtility.GridColorCommon2(System.Single,System.Single)">
+**********************************************************************************************************	
+
+ - FUNCTION : GridColorCommon
+
+ - ARGUMENT : Integer style : 
+
+ - COMMENT  : Grid Common style Application
+
+ - RETURN   : SourceGrid2.VisualModels.Header / commonstyle
+
+*********************************************************************************************************
+
+</member><member name="M:PC.CMgrUtility.GridStyle(SourceGrid2.Grid,System.Int32)">
+**********************************************************************************************************	
+
+ - FUNCTION : GridStyle
+
+ - ARGUMENT : SourceGrid2.Grid Grid ,Integer FixedRows : 
+
+ - COMMENT  : Grid Style SetUp
+
+ - RETURN   : SourceGrid2.Grid / Grid
+
+*********************************************************************************************************
+
+</member><member name="M:PC.CMgrUtility.GridClear_Check(SourceGrid2.Grid,System.Int32,System.Int32)">
+**********************************************************************************************************	
+
+ - FUNCTION : GridClear_Check
+
+ - ARGUMENT : SourceGrid2.Grid Grid ,Integer StartRows,Integer StartCols : 
+
+ - COMMENT  : The Grid check box Initialize
+
+ - RETURN   : SourceGrid2.Grid / Grid
+
+*********************************************************************************************************
+
+</member><member name="M:PC.CMgrUtility.GridClear(SourceGrid2.Grid,System.Int32,System.Int32)">
+**********************************************************************************************************	
+
+ - FUNCTION : GridClear
+
+ - ARGUMENT : SourceGrid2.Grid Grid ,Integer StartRows,Integer StartCols :
+
+ - COMMENT  : Grid Initialize
+
+ - RETURN   : SourceGrid2.Grid / Grid
+
+*********************************************************************************************************
+
+</member><member name="M:PC.CMgrUtility.GridCheck(SourceGrid2.Grid)">
+**********************************************************************************************************	
+
+ - FUNCTION : GridCheck
+
+ - ARGUMENT : SourceGrid2.Grid Grid : 
+
+ - COMMENT  : CheckBox in Grid there are a few checks have been selected...
+
+ - RETURN   : Integer / count
+
+*********************************************************************************************************
+
+</member><member name="M:PC.CMgrUtility.ENG_NUM_KeyPress(System.Windows.Forms.KeyPressEventArgs,System.Windows.Forms.TextBox)">
+**********************************************************************************************************	
+
+ - FUNCTION : 
+
+ - ARGUMENT : System.Windows.Forms.KeyPressEventArgs e(System Event), TextBox textbox(TextBox Object)
+
+ - COMMENT  : KEY PRESS ONLY NUMBER, ENGLISH
+
+ - RETURN   : NULL
+
+*********************************************************************************************************
+
+</member><member name="M:PC.CMgrUtility.NUM_KeyPress(System.Windows.Forms.KeyPressEventArgs,System.Windows.Forms.TextBox)">
+**********************************************************************************************************	
+
+ - FUNCTION : 
+
+ - ARGUMENT : System.Windows.Forms.KeyPressEventArgs e(System Event), TextBox textbox(TextBox Object)
+
+ - COMMENT  : COMMENT: KEY PRESS ONLY NUMBER
+
+ - RETURN   : NULL
+
+*********************************************************************************************************
+
+</member><member name="M:PC.CMgrUtility.divideMode_KeyPress(System.Windows.Forms.KeyPressEventArgs,System.Windows.Forms.TextBox)">
+**********************************************************************************************************	
+
+ - FUNCTION : 
+
+ - ARGUMENT : System.Windows.Forms.KeyPressEventArgs e(System Event), TextBox textbox(TextBox Object)
+
+ - COMMENT  : COMMENT: KEY PRESS ONLY B, E
+
+ - RETURN   : NULL
+
+*********************************************************************************************************
+
+</member><member name="M:PC.CMgrUtility.NUM_Point_KeyPress(System.Windows.Forms.KeyPressEventArgs,System.Windows.Forms.TextBox)">
+**********************************************************************************************************	
+
+ - FUNCTION : 
+
+ - ARGUMENT : System.Windows.Forms.KeyPressEventArgs e(System Event), TextBox textbox(TextBox Object)
+
+ - COMMENT  : KEY PRESS ONLY POINT, NUMBER
+
+ - RETURN   : NULL
+
+*********************************************************************************************************
+
+</member><member name="M:PC.CMgrUtility.QuotationConvert(System.String)">
+**********************************************************************************************************	
+
+ - FUNCTION : 
+
+ - ARGUMENT : 
+
+ - COMMENT  : Displayed on the screen 'error when the DB, so it does not need to save by converting to `return.
+
+ - RETURN   : NULL
+
+*********************************************************************************************************
+
+</member><member name="M:PC.CMgrUtility.AsteriskDelete(System.String)">
+**********************************************************************************************************	
+
+ - FUNCTION : 
+
+ - ARGUMENT : 
+
+ - COMMENT  : COIL NO '*' Reject
+
+ - RETURN   : NULL
+
+*********************************************************************************************************
+
+</member><member name="M:PC.CMgrUtility.CalTonPerHour(System.Int32,System.Int32,System.Int32,System.Int32)">
+**********************************************************************************************************	
+
+ - FUNCTION : CalTonPerHour
+
+ - ARGUMENT : 
+
+ - COMMENT  : 
+
+ - RETURN   : NULL
+
+*********************************************************************************************************
+
+</member><member name="M:PC.CMgrUtility.DayOnePlus(System.String)">
+**********************************************************************************************************	
+
+ - FUNCTION : DayOnePlus
+
+ - ARGUMENT : 
+
+ - COMMENT  : 
+
+ - RETURN   : strDateTime
+
+*********************************************************************************************************
+
+</member><member name="M:PC.CMgrUtility.DayOnePlusTime6(System.String)">
+**********************************************************************************************************	
+
+ - FUNCTION : DayOnePlus
+
+ - ARGUMENT : 
+
+ - COMMENT  : 
+
+ - RETURN   : strDateTime
+
+*********************************************************************************************************
+
+</member><member name="M:PC.CMgrDataBase.GetInstance">
+**********************************************************************************************************	
+
+ - FUNCTION : 
+   
+ - ARGUMENT : 
+   
+ - COMMENT  : 14-digit string of the system returns the current time
+   
+ - RETURN   : NULL
+
+*********************************************************************************************************
+
+</member><member name="M:PC.CMgrDataBase.Open(System.String)">
+**********************************************************************************************************	
+
+ - FUNCTION : 
+   
+ - ARGUMENT : 
+   
+ - COMMENT  : Connect database (need defined database name)
+   
+ - RETURN   : NULL
+
+*********************************************************************************************************
+
+</member><member name="M:PC.CMgrDataBase.Close">
+**********************************************************************************************************	
+
+ - FUNCTION : 
+   
+ - ARGUMENT : 
+   
+ - COMMENT  : Disconnect database
+   
+ - RETURN   : NULL
+
+*********************************************************************************************************
+
+</member><member name="M:PC.CMgrDataBase.dbChange(System.String)">
+**********************************************************************************************************	
+
+ - FUNCTION : 
+   
+ - ARGUMENT : 
+   
+ - COMMENT  : Change Database (Define DataBase Name)
+   
+ - RETURN   : NULL
+
+*********************************************************************************************************
+
+</member><member name="M:PC.CMgrDataBase.ExecuteReader(System.String)">
+**********************************************************************************************************	
+
+ - FUNCTION : 
+   
+ - ARGUMENT : 
+   
+ - COMMENT  : Execute data read 
+   
+ - RETURN   : NULL
+
+*********************************************************************************************************
+
+</member><member name="M:PC.CMgrDataBase.ExecuteNonQuery(System.String)">
+**********************************************************************************************************	
+
+ - FUNCTION : 
+   
+ - ARGUMENT : 
+   
+ - COMMENT  : Execute non data query
+   
+ - RETURN   : NULL
+
+*********************************************************************************************************
+
+</member><member name="M:PC.CMgrDataBase.ReturnDataTable(System.String,System.String)">
+**********************************************************************************************************	
+
+ - FUNCTION : 
+   
+ - ARGUMENT : 
+   
+ - COMMENT  : get dataset
+   
+ - RETURN   : NULL
+
+*********************************************************************************************************
+
+</member><member name="M:PC.CMgrDataBase.ReturnDataSet(System.String)">
+**********************************************************************************************************	
+
+ - FUNCTION : 
+   
+ - ARGUMENT : 
+   
+ - COMMENT  : get dataset
+   
+ - RETURN   : NULL
+
+*********************************************************************************************************
+
+</member><member name="M:PC.CMgrDataBase.ReturnExcelDataTable(System.String,System.String,System.String)">
+**********************************************************************************************************	
+
+ - FUNCTION : 
+   
+ - ARGUMENT : 
+   
+ - COMMENT  : get datatable 
+          Excel transformation of the target table is stored in the shared variable ExcelDataSet.
+          * Attention) is the current form ActiveMdiChild dataset to store only the table clear and dispose of the
+          1)  ToolStripButton_Click in main event
+          2)  Click the lookup button to the form you will need to at the event.
+   
+ - RETURN   : NULL
+
+*********************************************************************************************************
+
+</member><member name="M:PC.CMgrDataBase.SetExcelDataTable(System.String,System.String)">
+**********************************************************************************************************	
+
+ - FUNCTION : 
+   
+ - ARGUMENT : 
+   
+ - COMMENT  : 
+   
+ - RETURN   : NULL
+
+*********************************************************************************************************
+
+</member><member name="M:PC.cMgrExcelConnection.GetInstance">
+**********************************************************************************************************	
+
+ - FUNCTION : 
+   
+ - ARGUMENT : 
+   
+ - COMMENT  : 
+   
+ - RETURN   : NULL
+
+*********************************************************************************************************
+
+</member><member name="M:PC.cMgrExcelConnection.Open(System.String)">
+**********************************************************************************************************	
+
+ - FUNCTION : 
+   
+ - ARGUMENT : 
+   
+ - COMMENT  : Connect Excel 
+   
+ - RETURN   : NULL
+
+*********************************************************************************************************
+
+</member><member name="M:PC.cMgrExcelConnection.Close">
+**********************************************************************************************************	
+
+ - FUNCTION : 
+   
+ - ARGUMENT : 
+   
+ - COMMENT  : Disconnect database
+   
+ - RETURN   : NULL
+
+*********************************************************************************************************
+
+</member><member name="M:PC.cMgrExcelConnection.ReturnExcelDataTable(System.String)">
+**********************************************************************************************************	
+
+ - FUNCTION : 
+   
+ - ARGUMENT : 
+   
+ - COMMENT  : Get Datatable
+   
+ - RETURN   : NULL
+
+*********************************************************************************************************
+
+</member><member name="P:PC.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:PC.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:PC.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

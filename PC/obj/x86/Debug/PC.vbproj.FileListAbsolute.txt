@@ -1,0 +1,81 @@
+D:\GA Project\PC\PC\bin\Debug\PC.exe
+D:\GA Project\PC\PC\bin\Debug\PC.pdb
+D:\GA Project\PC\PC\bin\Debug\PC.xml
+D:\GA Project\PC\PC\obj\x86\Debug\PC.frmLogin.resources
+D:\GA Project\PC\PC\obj\x86\Debug\PC.frmMain.resources
+D:\GA Project\PC\PC\obj\x86\Debug\PC.frmNhapXuatScrap.resources
+D:\GA Project\PC\PC\obj\x86\Debug\PC.frmNhapKhoNguyenLieu.resources
+D:\GA Project\PC\PC\obj\x86\Debug\PC.frmShipDetail.resources
+D:\GA Project\PC\PC\obj\x86\Debug\PC.frmXuatKhoThanhPham.resources
+D:\GA Project\PC\PC\obj\x86\Debug\PC.frmThaydoiMatkhau.resources
+D:\GA Project\PC\PC\obj\x86\Debug\PC.Resources.resources
+D:\GA Project\PC\PC\obj\x86\Debug\PC.GridDataTable.resources
+D:\GA Project\PC\PC\obj\x86\Debug\PC.exe
+D:\GA Project\PC\PC\obj\x86\Debug\PC.xml
+D:\GA Project\PC\PC\obj\x86\Debug\PC.pdb
+D:\GA Project\PC\PC\bin\Debug\PC.exe.manifest
+D:\GA Project\PC\PC\bin\Debug\PC.application
+D:\GA Project\PC\PC\obj\x86\Debug\PC.TrustInfo.xml
+D:\GA Project\PC\PC\obj\x86\Debug\PC.exe.manifest
+D:\GA Project\PC\PC\obj\x86\Debug\PC.application
+D:\GA Project\PC\PC\obj\x86\Debug\PC.frmXacnhanthoigian.resources
+D:\GA Project\PC\PC\obj\x86\Debug\PC.frmLoading.resources
+D:\GA Project\PC\PC\obj\x86\Debug\PC.frmDangkiThongtinXuatkhoThanhpham.resources
+D:\GA Project\PC\PC\obj\x86\Debug\PC.frmDangkiThongtinNhapkhoNguyenlieu.resources
+D:\GA Project\PC\PC\obj\x86\Debug\PC.frmDangkiThongtinNhapXuatScrap.resources
+D:\GA Project\PC\PC\obj\x86\Debug\PC.vbprojResolveAssemblyReference.cache
+D:\GA Project\PC\PC\obj\x86\Debug\PC.vbproj.GenerateResource.Cache
+D:\Level2 Project\GA Project\PC\PC\obj\x86\Debug\PC.exe
+D:\Level2 Project\GA Project\PC\PC\obj\x86\Debug\PC.xml
+D:\Level2 Project\GA Project\PC\PC\obj\x86\Debug\PC.pdb
+D:\Level2 Project\GA Project\PC\PC\bin\Debug\PC.exe.manifest
+D:\Level2 Project\GA Project\PC\PC\bin\Debug\PC.application
+D:\Level2 Project\GA Project\PC\PC\bin\Debug\PC.exe
+D:\Level2 Project\GA Project\PC\PC\bin\Debug\PC.pdb
+D:\Level2 Project\GA Project\PC\PC\bin\Debug\PC.xml
+D:\Level2 Project\GA Project\PC\PC\obj\x86\Debug\PC.vbprojResolveAssemblyReference.cache
+D:\Level2 Project\GA Project\PC\PC\obj\x86\Debug\PC.frmDangkiThongtinNhapkhoNguyenlieu.resources
+D:\Level2 Project\GA Project\PC\PC\obj\x86\Debug\PC.frmDangkiThongtinNhapXuatScrap.resources
+D:\Level2 Project\GA Project\PC\PC\obj\x86\Debug\PC.frmDangkiThongtinXuatkhoThanhpham.resources
+D:\Level2 Project\GA Project\PC\PC\obj\x86\Debug\PC.frmLoading.resources
+D:\Level2 Project\GA Project\PC\PC\obj\x86\Debug\PC.frmLogin.resources
+D:\Level2 Project\GA Project\PC\PC\obj\x86\Debug\PC.frmMain.resources
+D:\Level2 Project\GA Project\PC\PC\obj\x86\Debug\PC.frmNhapXuatScrap.resources
+D:\Level2 Project\GA Project\PC\PC\obj\x86\Debug\PC.frmNhapKhoNguyenLieu.resources
+D:\Level2 Project\GA Project\PC\PC\obj\x86\Debug\PC.frmShipDetail.resources
+D:\Level2 Project\GA Project\PC\PC\obj\x86\Debug\PC.frmXacnhanthoigian.resources
+D:\Level2 Project\GA Project\PC\PC\obj\x86\Debug\PC.frmXuatKhoThanhPham.resources
+D:\Level2 Project\GA Project\PC\PC\obj\x86\Debug\PC.frmThaydoiMatkhau.resources
+D:\Level2 Project\GA Project\PC\PC\obj\x86\Debug\PC.Resources.resources
+D:\Level2 Project\GA Project\PC\PC\obj\x86\Debug\PC.GridDataTable.resources
+D:\Level2 Project\GA Project\PC\PC\obj\x86\Debug\PC.vbproj.GenerateResource.Cache
+D:\Level2 Project\GA Project\PC\PC\obj\x86\Debug\PC.TrustInfo.xml
+D:\Level2 Project\GA Project\PC\PC\obj\x86\Debug\PC.exe.manifest
+D:\Level2 Project\GA Project\PC\PC\obj\x86\Debug\PC.application
+D:\D\Other\Level2 Project\GA Project\PC\PC\obj\x86\Debug\PC.exe
+D:\D\Other\Level2 Project\GA Project\PC\PC\obj\x86\Debug\PC.xml
+D:\D\Other\Level2 Project\GA Project\PC\PC\obj\x86\Debug\PC.pdb
+D:\D\Other\Level2 Project\GA Project\PC\PC\bin\Debug\PC.exe.manifest
+D:\D\Other\Level2 Project\GA Project\PC\PC\bin\Debug\PC.application
+D:\D\Other\Level2 Project\GA Project\PC\PC\bin\Debug\PC.exe
+D:\D\Other\Level2 Project\GA Project\PC\PC\bin\Debug\PC.pdb
+D:\D\Other\Level2 Project\GA Project\PC\PC\bin\Debug\PC.xml
+D:\D\Other\Level2 Project\GA Project\PC\PC\obj\x86\Debug\PC.vbprojResolveAssemblyReference.cache
+D:\D\Other\Level2 Project\GA Project\PC\PC\obj\x86\Debug\PC.frmDangkiThongtinNhapkhoNguyenlieu.resources
+D:\D\Other\Level2 Project\GA Project\PC\PC\obj\x86\Debug\PC.frmDangkiThongtinNhapXuatScrap.resources
+D:\D\Other\Level2 Project\GA Project\PC\PC\obj\x86\Debug\PC.frmDangkiThongtinXuatkhoThanhpham.resources
+D:\D\Other\Level2 Project\GA Project\PC\PC\obj\x86\Debug\PC.frmLoading.resources
+D:\D\Other\Level2 Project\GA Project\PC\PC\obj\x86\Debug\PC.frmLogin.resources
+D:\D\Other\Level2 Project\GA Project\PC\PC\obj\x86\Debug\PC.frmMain.resources
+D:\D\Other\Level2 Project\GA Project\PC\PC\obj\x86\Debug\PC.frmNhapXuatScrap.resources
+D:\D\Other\Level2 Project\GA Project\PC\PC\obj\x86\Debug\PC.frmNhapKhoNguyenLieu.resources
+D:\D\Other\Level2 Project\GA Project\PC\PC\obj\x86\Debug\PC.frmShipDetail.resources
+D:\D\Other\Level2 Project\GA Project\PC\PC\obj\x86\Debug\PC.frmXacnhanthoigian.resources
+D:\D\Other\Level2 Project\GA Project\PC\PC\obj\x86\Debug\PC.frmXuatKhoThanhPham.resources
+D:\D\Other\Level2 Project\GA Project\PC\PC\obj\x86\Debug\PC.frmThaydoiMatkhau.resources
+D:\D\Other\Level2 Project\GA Project\PC\PC\obj\x86\Debug\PC.Resources.resources
+D:\D\Other\Level2 Project\GA Project\PC\PC\obj\x86\Debug\PC.GridDataTable.resources
+D:\D\Other\Level2 Project\GA Project\PC\PC\obj\x86\Debug\PC.vbproj.GenerateResource.Cache
+D:\D\Other\Level2 Project\GA Project\PC\PC\obj\x86\Debug\PC.TrustInfo.xml
+D:\D\Other\Level2 Project\GA Project\PC\PC\obj\x86\Debug\PC.exe.manifest
+D:\D\Other\Level2 Project\GA Project\PC\PC\obj\x86\Debug\PC.application
